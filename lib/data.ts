@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import lms from "@/public/lms.png";
-import chat from "@/public/chat.png";
+import chat from "@/public/Chat.png";
 import movie from "@/public/Movie.png";
 
 export const links = [
